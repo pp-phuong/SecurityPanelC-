@@ -1,0 +1,9 @@
+D:\University\Năm 2\Kì 4\NET\Visual\SecurityPanel\obj\Debug\SecurityPanel.csprojAssemblyReference.cache
+D:\University\Năm 2\Kì 4\NET\Visual\SecurityPanel\obj\Debug\SecurityPanel.Properties.Resources.resources
+D:\University\Năm 2\Kì 4\NET\Visual\SecurityPanel\obj\Debug\SecurityPanel.csproj.GenerateResource.cache
+D:\University\Năm 2\Kì 4\NET\Visual\SecurityPanel\obj\Debug\SecurityPanel.csproj.CoreCompileInputs.cache
+D:\University\Năm 2\Kì 4\NET\Visual\SecurityPanel\bin\Debug\SecurityPanel.exe.config
+D:\University\Năm 2\Kì 4\NET\Visual\SecurityPanel\bin\Debug\SecurityPanel.exe
+D:\University\Năm 2\Kì 4\NET\Visual\SecurityPanel\bin\Debug\SecurityPanel.pdb
+D:\University\Năm 2\Kì 4\NET\Visual\SecurityPanel\obj\Debug\SecurityPanel.exe
+D:\University\Năm 2\Kì 4\NET\Visual\SecurityPanel\obj\Debug\SecurityPanel.pdb
